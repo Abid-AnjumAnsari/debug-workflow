@@ -1,0 +1,4 @@
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2026-03-10" \
+  https://api.github.com/repos/Abid-AnjumAnsari/debug-workflow/actions/jobs/26301694419
